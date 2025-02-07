@@ -27,7 +27,7 @@ Installed in Podman/Docker \
 Containers: Nextcloud, HPBF, Cron, Redis, PostgreSQL, Elasticsearch
 
 ## Diagram tool
-Draw.io/Diagrams.net
+Draw.io/Diagrams.net \
 Installed in Podman/Docker.
 Accesible from Nextcloud.
 
@@ -41,23 +41,23 @@ Nginx Proxy Manager \
 Installed in Podman/Docker
 
 ## Web server/pages
-Joomla or Wordpress
+Joomla or Wordpress \
 Installed in Podman/Docker, using Apache
 
 ## Mail/calendar/contacts/todo
-Mailcow
-Installed in Podman/Docker
+Mailcow \
+Installed in Podman/Docker \
 Mailcow installs all neccesary parts in separate containers.
 
 ## Image/Photo album
-Photoprism
+Photoprism \
 Installed in Podman/Docker
 
 ## Vizualisation
-Grafana
+Grafana \
 Installed in Podman/Docker
 
 ## Database
-PostgreSQL or MariaDB
+PostgreSQ1L or MariaDB \
 Installed in Podman/Docker
 
