@@ -15,16 +15,16 @@ Installed on physical server
 
 ## Internal DNS and DCP
 Webmin
-Instaleld in VM
+Installed in VM
 
 ## LDAP/OIDC/AD
 Keycloak
 Installed in Podman/Docker
 
-## File/share/
-Nextcloud
-Installed in Podman/Docker
-Containrar: Nextcloud, HPBF, Cron, Redis, PostgreSQL, Elasticsearch
+## File/share/tools
+Nextcloud \
+Installed in Podman/Docker \
+Containers: Nextcloud, HPBF, Cron, Redis, PostgreSQL, Elasticsearch
 
 ## Diagram tool
 Draw.io/Diagrams.net
@@ -32,12 +32,12 @@ Installed in Podman/Docker.
 Accesible from Nextcloud.
 
 ## Online office
-Collabora or Openoffice
+Collabora or Openoffice \
 Installed in Podman/Docker.
 Accesible from Nextcloud.
 
 ## Rerverse proxy
-Nginx Proxy Manager
+Nginx Proxy Manager \
 Installed in Podman/Docker
 
 ## Web server/pages
